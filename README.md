@@ -1,56 +1,47 @@
-<!-- BANNER --><h1 align="center">✨ Afsana Mimi ✨</h1>
-<h3 align="center">UI Designer • Web Developer • Creative Thinker</h3><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afsanamimishowmi744-ui&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>---
-
-🚀 About Me
-
-💡 Passionate about designing modern, clean & user-friendly digital experiences
-🎨 Strong eye for UI/UX and branding
-💻 Front-end developer (HTML, CSS)
-🌱 Currently improving advanced design & web skills
+<h1 align="center">Hi 👋, I'm Afsana Mimi</h1>
+<h3 align="center">🎨 UI Designer | 💻 Web Developer | 🚀 Creative Thinker</h3>
 
 ---
 
-🛠️ Skills
-
-💻 HTML5 • CSS3 • Responsive Design
-🎨 UI/UX Design • Figma • Canva
-🚀 Branding • Portfolio Design
-
----
-
-🌟 Featured Projects
-
-🔹 Portfolio Website – Modern personal branding website
-🔹 Fashion Brand UI – Clean & stylish eCommerce layout
-🔹 Construction Business Site – Corporate design website
-🔹 Logo & Branding – Creative identity designs
+## 🌟 About Me
+✨ Passionate about creating modern UI/UX  
+💡 Love building creative and premium designs  
+🌱 Currently learning advanced Frontend Development  
+🎯 Goal: Become a top-level designer & developer  
 
 ---
 
-📊 GitHub Stats
+## 🛠️ Skills
+- 🎨 UI/UX Design (Figma, Canva)
+- 💻 HTML, CSS, JavaScript
+- ⚡ Responsive Design
+- 🚀 GitHub & Portfolio Development
 
+---
+
+## 🚀 Projects
+🔹 Personal Portfolio Website  
+🔹 UI Design Projects  
+🔹 Branding & Logo Design  
+
+👉 More coming soon...
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afsanamimishowmi744-ui&show_icons=true&theme=radical" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsanamimishowmi744-ui&theme=radical" />
-</p>---
-
-🎯 2026 Goals
-
-✔️ Build premium portfolio projects
-✔️ Work with international clients
-✔️ Become top UI/UX designer
+  <img src="https://github-readme-stats.vercel.app/api?username=afsanamimishowmi744-ui&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsanamimishowmi744-ui&theme=tokyonight" />
+</p>
 
 ---
 
-📫 Connect
-
-🔗 GitHub:
-https://github.com/afsanamimishowmi744-ui
-Email: afsanamimi1996@hotmail.com 
+## 🌐 Connect With Me
+- 🌍 Portfolio: https://afsanamimishowmi744-ui.github.io/
+- 💼 GitHub: https://github.com/afsanamimishowmi744-ui
 
 ---
 
-⭐ If you like my work, follow me and star my projects!
+## 💖 Support Me
+⭐ Star my repositories  
+🚀 Follow for more projects
